@@ -1,0 +1,1 @@
+import{b1 as p}from"./DyynC3Zn.js";function t(t){const{$api:a}=p();return a("/v2api/pump/v1/all",{method:"get",query:t})}function a(){const{$api:t}=p();return t("/v2api/pump/v1/config")}export{a as _,t as a};
