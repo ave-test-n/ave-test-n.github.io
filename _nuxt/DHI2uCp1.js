@@ -1,0 +1,1 @@
+import{d7 as t,b6 as e}from"./DVZobiV6.js";const n=t((function(){const{$api:t}=e();return t("/v1api/v4/tokens/treasure/config",{method:"get"})}),2e3);function o(t){const{$api:n}=e();return n("/v1api/v4/tokens/treasure/list",{method:"get",query:t})}function r(t){const{$api:n}=e();return n("/v1api/v2/tokens/priceChange",{method:"get",query:t})}export{r as a,n as b,o as g};
