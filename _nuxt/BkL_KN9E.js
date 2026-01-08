@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,F as o,C as r,a as t,a6 as e}from"./lVo8wPcw.js";const c={class:"arrow-container"};const l=a({},[["render",function(a,l){return n(),s("div",c,[(n(),s(o,null,r(3,(a=>t("div",{key:a,class:"arrow",style:e({animationDelay:.3*(a-1)+"s"})},null,4))),64))])}],["__scopeId","data-v-cd146408"]]);export{l as default};
